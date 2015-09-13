@@ -1,0 +1,15 @@
+[Settings for qute]
+Description=Settings for qute
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+noborder=true
+noborderrule=3
+shortcut=Alt+e
+shortcutrule=3
+title=DuckDuckGo - qutebrowser
+titlematch=0
+wmclass=qutebrowser
+wmclasscomplete=false
+wmclassmatch=1

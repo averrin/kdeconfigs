@@ -1,0 +1,11 @@
+[Settings for konsole]
+Description=Settings for konsole
+noborder=true
+noborderrule=3
+shortcut=Alt+k
+shortcutrule=3
+title=user : zsh
+titlematch=0
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1

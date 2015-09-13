@@ -1,0 +1,11 @@
+[Settings for Atom]
+Description=Settings for Atom
+clientmachine=pc-001-00480
+clientmachinematch=0
+shortcut=Alt+a
+shortcutrule=3
+title=Atom
+titlematch=0
+wmclass=atom
+wmclasscomplete=false
+wmclassmatch=1

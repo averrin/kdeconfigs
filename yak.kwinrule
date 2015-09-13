@@ -1,0 +1,11 @@
+[Settings for yakyak]
+Description=Settings for yakyak
+clientmachine=pc-001-00480
+clientmachinematch=0
+shortcut=Alt+H
+shortcutrule=3
+title=Yakyak
+titlematch=0
+wmclass=yakyak
+wmclasscomplete=false
+wmclassmatch=1

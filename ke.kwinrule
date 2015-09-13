@@ -1,0 +1,19 @@
+[Settings for TkKeyboard]
+Description=Settings for TkKeyboard
+noborder=true
+noborderrule=3
+opacityinactive=80
+opacityinactiverule=2
+position=1496,938
+positionrule=4
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=Keyboard
+titlematch=1
+wmclass=tk
+wmclasscomplete=false
+wmclassmatch=1
