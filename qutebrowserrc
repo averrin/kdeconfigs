@@ -1,0 +1,6 @@
+[FileDialogSize]
+Window-Maximized 1080x1920=true
+
+[KFileDialog Settings]
+Recent Files[$e]=bq.jpeg,$HOME/426007.jpg,$HOME/Downloads/sq.jpeg,$HOME/Downloads/bq.jpeg,$HOME/Documents/bq.jpeg
+Recent URLs[$e]=$HOME/projects/zhtml-backend/,$HOME/Downloads/
