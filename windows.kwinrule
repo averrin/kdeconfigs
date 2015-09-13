@@ -1,0 +1,17 @@
+[Settings for Google-chrome-stable]
+Description=Settings for Google-chrome-stable
+clientmachine=pc-001-00480
+clientmachinematch=0
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=Hangouts
+titlematch=1
+windowrole=app
+windowrolematch=1
+wmclass=google-chrome-
+wmclasscomplete=false
+wmclassmatch=2
